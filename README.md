@@ -69,9 +69,9 @@ public class BootSpringBootApplication {
 
 *****
 
-[link keyword][id]
+[my github][id]
 
-[id]: URL "Optional Title here"
+[id]: (https://github.com/bradjjc/jichangjung) "bradjung"
 
 // code
 Link: [Google][googlelink]
