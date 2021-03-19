@@ -78,7 +78,7 @@ Link: [Google][googlelink]
 
 [googlelink]: https://google.com "Go google"
 
-[naver](https://naver.com, "naver link")
+[naver](https://naver.com  "naver link")
 
 
 
