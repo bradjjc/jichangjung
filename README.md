@@ -1,113 +1,130 @@
-##  이동건
+# 소개
 
-현재 iOS를 공부하며 블로그를 운영중입니다.
+<img alt="깃헙 프로필 사진" src="https://raw.githubusercontent.com/seokju-na/resume/bf557431b5e7b5b84fed25020885dcc5e4ad79d9/assets/me_at_github.png" width="200">
 
-- blog
-  - http://baked-corn.tistory.com
-  - https://ehdrjsdlzzzz.github.io
-- [Github](https://github.com/protocorn93)
-
----
-
-#### 학력
-
-**경기대학교** : 2012.03 ~ 2019.08 (졸업)
-
-**컴퓨터과학과** : 프로그래밍 언어론, 운영체제, 데이터베이스, 네트워크, 자료구조 등 전공 과목 이수
-
----
-
-#### 경력
-
-**카카오페이 iOS 개발** : 2019.10 ~ (재직중)
-- iOS 개발
-
-**케어랩스 굿닥 iOS 개발** : 2019.05 ~ 2019.09
-
-- iOS 개발
-- `Git`, `Bitbucket`, `Jira`, `Confluence`
-
-**케어랩스 굿닥 iOS 개발 인턴** : 2019.02 ~ 2019.05
-
-- iOS 개발
-- `Git`, `Bitbucket`, `Jira`, `Confluence`
-
----
-#### 활동
-
-- **2016.03**
-  - 건축학과에서 컴퓨터과학과로 전과
-- **2016.09 ~ 2016.12**
-  -  수도권 연합 IT 동아리 SOPT - 안드로이드 파트 수료 (19기)
-- **2017.03 ~ 2017.12**
-  - 멋쟁이사자처럼 - 아주대학교 5기 (멘티) 활동
-    - Ruby on Rails를 이용한 웹 프로그래밍 교육 수료
-    - iOS 스터디 운영
-- **2018.03 ~ 현재**
-  - 멋쟁이사자처럼 - 아주대학교 6기 (멘토 및 운영진) 활동
-    - 비전공자들에게 웹의 기초와 Ruby on Rails 기초 문법 강의
-    - iOS 스터디 운영
-- **2018.05.17**
-  - 네이버 대학생 해커톤 핵데이 iOS 주제로 참가
-    - Gesture Video
-- **2018.09.01**
-  - 커넥트 재단에서 운영하는 [부스트코스](https://www.edwith.org/boostcourse-ios) **에이스 과정 스터디 팀장**으로 수료
-    - 우수 스터디 인터뷰 진행 ([참고자료](https://m.post.naver.com/viewer/postView.nhn?volumeNo=16674489&memberNo=34635212))
-
----
-
-#### 외국어 및 자격증
-
-- 외국어
-  - 영어
-    - 중상
-    - 공식 문서를 읽는 것에 큰 어려움을 느끼지 않습니다. 
-- 자격증
-  - 정보처리기사 (2018.05.25 취득)
-
----
-
-#### 프로젝트
-
-## GitBingo (깃빙고)
-
-**1일 1커밋을 실천하려는 개발자들을 위한 어플리케이션**
-
-> 현재는 앱스토어에서 내려간 상태
-
-[레포지터리](https://github.com/ehdrjsdlzzzz/GitBingo)
+* 나석주
+* Email : seokju.me@gmail.com
+* Github : [github.com/seokju-na](https://github.com/seokju-na)
 
 
+# 경력
+* [비바리퍼블리카](https://toss.im)
+    - Frontend Developer
+    - 기간 : 2019.2-
+* [타운컴퍼니](https://fb.com/towncompany)
+    - R&D 파트 개발팀
+    - 웹 프론트 엔지니어
+    - 기간 : 2017.9-2018.2, 2018.8-2018.12
+* [두닷두](http://www.dodotdo.com)
+    - 웹 프론트 엔지니어
+    - 기간 : 2016.3-2017.2
 
-#### 기술
 
-1. 실시간 Contribution 확인 가능
-2. 원하는 시간에 알람을 받아 금일 커밋을 진행하였는지 확인 가능
-3. 투데이 익스텐션 타겟을 사용해 위젯에서 이번주 커밋 정보와 알람 등록 시간을 확인 가능
+# 프로젝트
+## Toss <img src="https://user-images.githubusercontent.com/13250888/53622309-b8582700-3c3c-11e9-927d-b2dbc3465892.png" alt="토스 로고" width="22" height="22"/>
+`비바리퍼블리카, 2019.2-`
 
-#### 사용한 기술
+BankService Silo에서 프론트엔드 개발을 하고 있습니다.
 
-- `Swift4`, `Xcode9`, `UserNotifications`, `Error Handling`, `Localizing`, `Networking`, `UIApplicationShortCuts`, `Today Extensions`, `SwiftLint`, `Unit Test`
+## Geek's Diary
+`개인 프로젝트, 2017.5-`
 
-#### 사용한 아키텍쳐
+개발자를 위한 TIL(Today I Learned) 작성 툴로 Markdown과 코드를 혼합하여 작성할 수 있는 문서 편집기와 버전 관리 시스템의 연동이 큰 특징입니다. 2019년 1월 3일에 베타 버전을 배포하였으며 GitHub 저장소 주소는 [seokju-na/geeks-diary](https://github.com/seokju-na/geeks-diary) 입니다.
 
-- `Delegation `, `Singleton`
-- 시도한 아키텍쳐 : `MVP`
+### 개발
+- Electron 프레임워크 기반의 데스크탑 애플리케이션
+- TypeScript 언어로 작성하였으며 Angular 프레임워크 사용
+- Karma, Jasmine, Mocha를 이용하여 테스트 자동화
+- 높은 퀄리티의 코드를 유지하기 위해 노력 - DI를 적극 활용, 단위 테스트 꼼꼼히 작성
+- ngrx를 사용한 상태 관리
 
-#### 공부한 내용 정리
+## TownUS <img src="https://user-images.githubusercontent.com/13250888/53622388-fb19ff00-3c3c-11e9-82f4-745111bf394e.png" alt="타운컴퍼니 로고" width="22" height="22"/>
+`타운컴퍼니, 웹 프론트엔드 개발, 2017.8-2018.3, 2018.8-12`
 
-- App Extension Programming Guide for iOS
-  - [Essential](https://ehdrjsdlzzzz.github.io/2018/10/03/App-Extension-Programming-Guide-1/)
-  - [Essential - Handling Common Scenarios](https://ehdrjsdlzzzz.github.io/2018/10/09/App-Extension-Programming-Guide-2/)
+모든 단체를 위한 공동구매 플랫폼, [타운어스](https://townus.co.kr)의 신규 플랫폼 개발에 웹 프론트엔드 부분을 맡아 프로젝트를 진행하였습니다. 모바일 사용자 유입이 많아 모바일 웹 개발을 위주로 진행하였으며, 전체적인 UI/UX 개선, 단체의류 커스터마이징 기능 강화, 조직 문화 개선 등의 작업을 하였습니다.
 
-#### 사용한 라이브러리
+### 개발 
+- TypeScript 언어로 작성하였으며 Angular 프레임워크 사용
+- Karma, Jasmine을 이용하여 테스트 자동화
+- RxJS 라이브러리를 이용하여 UI 인터랙션을 처리
 
-- [`Kanna`](https://github.com/tid-kijyun/Kanna) - https://github.com/users/ehdrjsdlzzzz/contributions 로부터 HTML을 파싱해오기 위해 사용
-- [`SVProgressHUD`](https://github.com/SVProgressHUD/SVProgressHUD) - Indicator와 함께 코멘트를 사용하기 위해 사용
-- [`SwiftLint`](https://github.com/realm/SwiftLint) - Swift 스타일과 컨벤션을 지키기 위해
+### DevOps
+- Jira로 이슈 트래킹 및 칸반 보드를 이용하여 애자일 개발 프로세스 진행
+- Travis CI로 지속적 통합 유지
+- 테스트 주도 개발 실천
+- GitHub를 통해 매 Pull Request 마다 코드 리뷰 실천
+- Sentry 모니터링으로 버그 트래킹
+- GitFlow를 이용하여 배포 전략 맞춤
 
-#### 문제점
 
-- 웹 브라우저에선 00:00 이후 다음 날 컨트리뷰션 도트를 바로 확인 가능하지만 앱에선 GMT 시간 차로 오전 9시가 되어서야 그날의 도트를 받아올 수 있음.
-  - 이 문제를 해결하기 위해 많은 노력을 해보았으나 해결하지 못함
-  - 확인해본 결과 모바일 크롬이나 사파리에서도 동일한 이슈가 발생한 것으로 모바일에서 요청한 것에 대한 깃헙 서버의 응답에 이슈가 있는 것으로 판단하였음.
+## 항공예약 시스템 모바일 웹 개발
+`프리랜서, 웹 프론트엔드 개발, 2017.4-7`
+
+프리랜서로 주식회사 오마이트립에서 항공예약 시스템인 ohmytrip의 모바일 웹 개발을 담당하였습니다. 편도, 왕복, 다구간 항공 일정을 사용자가 달력에서 선택할 수 있는 등, 복잡한 UI를 구현하는 과정이 챌린지였습니다.
+
+- JavaScript(ES6+) 언어로 작성하였으며 AngularJS 프레임워크 사용
+- Azure DevOps(구 VSTS)로 이슈 트래킹
+
+
+## HIMS(Hotel Intelligent Management System)
+`두닷두, 웹 프론트엔드 개발, 2016.3-2017.2`
+
+두닷두에서 호텔 관리 시스템의 B2B향 관리자용 웹 사이트를 혼자 맡아 개발하였습니다. 호텔 매니저들이 방의 상태를 확인하고 갱신하거나 스마트 워치로 등록한 이슈들을 실시간으로 트래킹 하는 기능을 개발하였습니다. 부 기능으로 호텔 용 모바일 기기에 등록가능한 디지털 사이니지를 편집하는 기능도 개발하였습니다.
+
+### 개발
+- JavaScript(ES6+) 언어로 작성하였으며 AngularJS 프레임워크 사용
+- Karma, Jasmine을 이용하여 테스트 자동화
+- Selenium 드라이버를 이용하여 E2E 테스트 자동화
+- 웹 소켓을 이용하여 실시간 이슈 트래킹 구현
+- 디지털 사이니지 편집기 구현
+- 수백 개의 항목을 AngularJS 컴파일러가 처리하는데 성능 문제가 발생하여, WebWorker에서 Virtual DOM으로 항목을 계산하고 DOM에 계산된 값을 패치하는 방식으로 문제 해결
+
+### DevOps
+- Travis CI로 지속적 통합 유지
+- Gulp로 빌드, 배포 환경 구축
+
+# 보유 기술 및 사용도구
+## 웹 프론트엔드
+
+<img alt="typescript" src="https://user-images.githubusercontent.com/13250888/53627369-a2059780-3c4b-11e9-88c2-58a7bd4a04e5.png" width="32" height="32"/> <img alt="javascript" src="https://user-images.githubusercontent.com/13250888/53627364-a16d0100-3c4b-11e9-84e2-a8c2f7311695.png" width="32" height="32"/> <img alt="react" src="https://user-images.githubusercontent.com/13250888/62798586-90d58680-bb19-11e9-9a82-9762725abede.png" width="32" height="32"/> <img alt="angular" src="https://user-images.githubusercontent.com/13250888/53627361-a16d0100-3c4b-11e9-97ee-8c87c15bf9a3.png" width="32" height="32"/> <img alt="rxjs" src="https://user-images.githubusercontent.com/13250888/53627366-a2059780-3c4b-11e9-8587-d959ed1e7119.png" width="32" height="32"/> <img alt="html5" src="https://user-images.githubusercontent.com/13250888/53627363-a16d0100-3c4b-11e9-8238-56153fb041e4.png" width="32" height="32"/> <img src="https://user-images.githubusercontent.com/13250888/53627368-a2059780-3c4b-11e9-95e3-9058d6a8afc7.png" alt="sass" width="32" height="32"/> <img alt="jest" src="https://user-images.githubusercontent.com/13250888/53627686-746d1e00-3c4c-11e9-9ec3-dd2398af09d2.png" width="32" height="32"/> <img alt="karma" src="https://user-images.githubusercontent.com/13250888/53627688-746d1e00-3c4c-11e9-8853-9a63d2cd989a.png" height="32"/> <img alt="nodejs" src="https://user-images.githubusercontent.com/13250888/53627689-7505b480-3c4c-11e9-9386-1656f03bb3d7.png" width="32" height="32" />
+
+
+- 주로 사용하는 언어는 TypeScript, JavaScript 입니다.
+- React 라이브러리를 능숙하게 사용하며, Redux 구조에 익숙합니다.
+- Angular, AngularJS 프레임워크를 능숙하게 사용할 수 있습니다.
+- JavaScript VM이 어떻게 작동하는지 이해하고, 브라우저의 동작 원리를 이해합니다.
+- Less, Sass를 주로 사용합니다.
+- Web API를 능숙하게 사용할 수 있고, 웹 접근성을 고려하여 UI를 개발할 수 있습니다.
+- 어떤 방식의 UI 테스트가 쉽게 깨지지 않고 효율적일지 고민합니다.
+- BEM 방법론을 선호합니다.
+- RxJS 라이브러리를 능숙하게 다루며, 반응형 프로그래밍에 익숙합니다.
+
+## 아키텍처 및 디자인 패턴
+- 종속성 반전, 단일 책임 원칙, DRY 등 좋은 소프트웨어를 만들기 위한 원칙을 지키려고 노력합니다.
+- MVP, MVC, MVVM, Flux 아키텍처를 이해합니다.
+
+## DevOps
+- 칸반을 이용한 애자일 개발 프로세스에 익숙합니다.
+- 테스트 주도 개발을 실천합니다.
+- 코드 리뷰가 습관화 되어 있습니다.
+- Travis CI로 지속적 통합을 진행할 수 있습니다.
+
+
+# 활동
+* 제 2회 고려대학교 해커톤: 고카톤 운영진 (2017.5-2017.8)
+* 제 5회 대학생 연합 해커톤 UNITHON 운영진 (2017.5-2017.7)
+* Naver D2SF 캠퍼스 파트너 1기 (2016.11-2017.3)
+* 실전 SW 창업 연합 동아리 REAL 5기 운영진 (2016.11-2017.6)
+* [소프트웨어 마에스트로](swmaestro.kr) 6기 연수생 (2015.7-2016.6)
+
+
+# 더 보기
+- GitHub 프로필 : https://github.com/seokju-na
+- MDN 프로필 : https://developer.mozilla.org/ko/profiles/seokju-na
+- 발표
+    * [Rush로 안전한 Monorepo 관리하기](https://drive.google.com/open?id=1NVbOu5mWLr6Rz6r_iJW7Was1EttfSzt3), 2019.11.21, 토스팀 사내 엔지니어링 데이
+    * [비동기를 우아하게 처리하기 위한 Observable](https://slides.com/seokjume/observable), 2019.10.26, [FEConf 2019](https://2019.feconf.kr)
+    * [Zone과 fakeAsync](https://drive.google.com/open?id=14iqzQcqxeZtyjWWTdxv7xrmFyqKUyIo_), 2019.8.1, 토스팀 사내 엔지니어링 데이
+    * [프론트엔드 개발 끝장내기 (feat. Angular)](https://drive.google.com/open?id=1RqDz0ivfyTtN_GxzgcefOXaeIzQUQ-7o), 2019.6.22, GDG Campus Korea - [FRONT-ENDGAME: 여러분의 프런트엔드를 구할 어벤져스가 찾아옵니다](https://festa.io/events/317)
+    * [RxJS로 비동기와 친해지기](https://www.slideshare.net/SeokjuNa/rxjs-132918267), 2019.2.22, 토스팀 사내 엔지니어링 데이
+    * [Angular CDK로 높은 퀄리티의 UI 개발하기](https://drive.google.com/open?id=1hcuqv0lxFHjNVzod00cVDbBN9NB3BY1u), 2018.7.22, Seoul.js 라이트닝 토크
