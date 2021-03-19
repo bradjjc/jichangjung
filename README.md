@@ -69,15 +69,16 @@ public class BootSpringBootApplication {
 
 *****
 
-[my github][id]
+[my git hub][id]
 
-[id]: (https://github.com/bradjjc/jichangjung) "bradjung"
+[id]: [URL](https://gist.github.com/ihoneymon/652be052a0727ad59601) "bradjung"
 
 // code
 Link: [Google][googlelink]
 
 [googlelink]: https://google.com "Go google"
 
+[naver](https://naver.com, "naver link")
 
 
 
