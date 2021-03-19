@@ -2,8 +2,8 @@
 
 <img alt="깃헙 프로필 사진" src="https://raw.githubusercontent.com/seokju-na/resume/bf557431b5e7b5b84fed25020885dcc5e4ad79d9/assets/me_at_github.png" width="200">
 
-* 나석주
-* Email : seokju.me@gmail.com
+* 정지창
+* Email : jichangjung@yahoo.com
 * Github : [github.com/seokju-na](https://github.com/seokju-na)
 
 
