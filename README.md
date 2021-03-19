@@ -22,22 +22,22 @@
 ## littlecreatures <img src="littlecreatures.jpg" alt="Little Creature" width="300" height="300"/>
 `2008.03-2010.10`
 
-BankService Silo에서 프론트엔드 개발을 하고 있습니다.
+요리를 배웠지만 새로운걸 해볼려고합니다.
 
-## Geek's Diary
-`개인 프로젝트, 2017.5-`
+## Brad's Diary
+`웹, 앱 개발`
 
-개발자를 위한 TIL(Today I Learned) 작성 툴로 Markdown과 코드를 혼합하여 작성할 수 있는 문서 편집기와 버전 관리 시스템의 연동이 큰 특징입니다. 2019년 1월 3일에 베타 버전을 배포하였으며 GitHub 저장소 주소는 [seokju-na/geeks-diary](https://github.com/seokju-na/geeks-diary) 입니다.
+수원에있는 세민직업학교에서 수업을시작하였습니다. 홈페이지 주소는 [세민직업전문학교](http://www.semin.or.kr/v2/index.php) 입니다.
 
-### 개발
-- Electron 프레임워크 기반의 데스크탑 애플리케이션
-- TypeScript 언어로 작성하였으며 Angular 프레임워크 사용
-- Karma, Jasmine, Mocha를 이용하여 테스트 자동화
-- 높은 퀄리티의 코드를 유지하기 위해 노력 - DI를 적극 활용, 단위 테스트 꼼꼼히 작성
-- ngrx를 사용한 상태 관리
+### 교육
+- Flutter 사용법
+- 코딩
+- Visual studio code
+- 하루하루 배운거를 꼼꼼히작성
+- 홈페이지 관리
 
-## TownUS <img src="https://user-images.githubusercontent.com/13250888/53622388-fb19ff00-3c3c-11e9-82f4-745111bf394e.png" alt="타운컴퍼니 로고" width="22" height="22"/>
-`타운컴퍼니, 웹 프론트엔드 개발, 2017.8-2018.3, 2018.8-12`
+## Flutter <img src="flutter.html" width="100" height="100"/>
+`교육과정 2021.3.17- 2021.9`
 
 모든 단체를 위한 공동구매 플랫폼, [타운어스](https://townus.co.kr)의 신규 플랫폼 개발에 웹 프론트엔드 부분을 맡아 프로젝트를 진행하였습니다. 모바일 사용자 유입이 많아 모바일 웹 개발을 위주로 진행하였으며, 전체적인 UI/UX 개선, 단체의류 커스터마이징 기능 강화, 조직 문화 개선 등의 작업을 하였습니다.
 
