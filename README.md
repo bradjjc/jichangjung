@@ -4,25 +4,23 @@
 
 * 정지창
 * Email : jichangjung@yahoo.com
-* Github : [github.com/seokju-na](https://github.com/seokju-na)
+* Github : [github.com/bradjjc](https://github.com/bradjjc)
 
 
-# 경력
-* [비바리퍼블리카](https://toss.im)
-    - Frontend Developer
-    - 기간 : 2019.2-
-* [타운컴퍼니](https://fb.com/towncompany)
-    - R&D 파트 개발팀
-    - 웹 프론트 엔지니어
-    - 기간 : 2017.9-2018.2, 2018.8-2018.12
-* [두닷두](http://www.dodotdo.com)
-    - 웹 프론트 엔지니어
-    - 기간 : 2016.3-2017.2
+# 경력,기간
+* [Sydney Bluse Line Cruise](hhttps://www.cruisingrestaurantsofsydney.com.au/)
+    - Chef
+    - 기간 : 2008.03-2010.10
+* [Little creature Perth](hhttps://littlecreatures.com.au/agegate/)
+    - Main Chef
+    - Parth Chef
+    - 기간 : 2010.11-2013.5
+
 
 
 # 프로젝트
-## Toss <img src="https://user-images.githubusercontent.com/13250888/53622309-b8582700-3c3c-11e9-927d-b2dbc3465892.png" alt="토스 로고" width="22" height="22"/>
-`비바리퍼블리카, 2019.2-`
+## littlecreatures <img src="littlecreatures.jpg" alt="Little Creature" width="300" height="300"/>
+`2008.03-2010.10`
 
 BankService Silo에서 프론트엔드 개발을 하고 있습니다.
 
