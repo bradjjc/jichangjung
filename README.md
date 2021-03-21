@@ -8,7 +8,7 @@
 
 ![세민](https://img.shields.io/badge/SUPPORTED%20BY-http%3A%2F%2Fwww.semin.or.kr%2Fv2%2Findex.php-yellowgreen)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bradjjc)
+![Bradjjc's GitHub stats](https://github-readme-stats.vercel.app/api?username=bradjjc&show_icons=true&theme=radical)
 
 ![언어](https://img.shields.io/badge/Dart-80%25-red)![언어](https://img.shields.io/badge/Markdown-20%25-yellow)
 
@@ -51,13 +51,3 @@
   + 배우고 있는 내용을 매일 포스팅중
 
 + 세민직업전문학교
-  
-<<<<<<< HEAD
-=======
-
-
-
->>>>>>> 7395660eedd41b9a677deea508b61c35b83b565f
-
-----
-
