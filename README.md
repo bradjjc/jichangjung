@@ -11,6 +11,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bradjjc)
 
 ![언어](https://img.shields.io/badge/Dart-80%25-red)![언어](https://img.shields.io/badge/Markdown-20%25-yellow)
+
+
 ## 학력
 ----
 |             Education             |    Date   |
