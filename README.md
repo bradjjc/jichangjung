@@ -18,14 +18,14 @@
 ----
 |             Education             |    Date   |
 |:---------------------------------:|:---------:|
-|           세민직업전문학교         | 2021.3-    |
+|           세민직업전문학교         | 2021.3-   |
 | North Shore international academy | 2011-2012 |
 | Randwick TAFE NSW in Australia    | 2010-2011 |
 | Granville TAFE NSW in Australia   | 2009-2010 |
 
 
 ## 언어
-
+----
 + 한국어
 + 영어
 + 따갈로그
