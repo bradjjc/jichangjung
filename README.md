@@ -4,7 +4,7 @@
 + ![Korean name](https://img.shields.io/badge/%EC%9D%B4%EB%A6%84-%EC%A0%95%EC%A7%80%EC%B0%BD-lightgrey)
 + ![Email](https://img.shields.io/badge/Email-jungj2875%40gmail.com-brightgreen)
 + ![Github](https://img.shields.io/badge/Github-bradjjc-blue)
-+ ![blog](https://img.shields.io/badge/Blog-bradjung.tistory.com-orange?link=http://right&link=http://rightbradjung.tistory.com/)
++ ![blog](https://img.shields.io/badge/Blog-bradjung.tistory.com-orange?link=http://link&right=http://bradjung.tistory.com)
 
 ![세민](https://img.shields.io/badge/SUPPORTED%20BY-http%3A%2F%2Fwww.semin.or.kr%2Fv2%2Findex.php-yellowgreen)
 
