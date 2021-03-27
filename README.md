@@ -1,18 +1,35 @@
 
 # Hi I'm Jichang Jung 👋
 
+<br>
+
 + ![Korean name](https://img.shields.io/badge/%EC%9D%B4%EB%A6%84-%EC%A0%95%EC%A7%80%EC%B0%BD-lightgrey)
 + ![Email](https://img.shields.io/badge/Email-jungj2875%40gmail.com-brightgreen)
 + [![Github](https://img.shields.io/badge/Github-bradjjc-blue)](https://github.com/bradjjc)
 + [![blog](https://img.shields.io/badge/Blog-bradjung.tistory.com-orange)](http://bradjung.tistory.com)
+<br>
+<br>
+
+
 
 [![세민](https://img.shields.io/badge/SUPPORTED%20BY-http%3A%2F%2Fwww.semin.or.kr%2Fv2%2Findex.php-yellowgreen)](http://www.semin.or.kr/v2/index.php)
+<br>
+<br>
 
 ![Bradjjc's GitHub stats](https://github-readme-stats.vercel.app/api?username=bradjjc&show_icons=true&theme=radical)
 
+<br>
+
+
 ![언어](https://img.shields.io/badge/Dart-80%25-red)![언어](https://img.shields.io/badge/Markdown-20%25-yellow)
+<br>
+<br>
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bradjjc)
+
+<br>
+<br>
 
 ## 학력
 ----
@@ -32,6 +49,9 @@
 + 영어
 + 따갈로그
   
+<br>
+<br>
+
 ## 소개서
 ----
 <br>
@@ -76,6 +96,6 @@
   + (https://bradjung.tistory.com/)
   + 배우고 있는 내용을 매일 포스팅중
   <br>
-  
+
 
 세민직업전문학교
