@@ -72,7 +72,7 @@
 <br>
 <br>
 
-<img src="vscode이력서2.jpg" width="60" height="60"><img src="dart.jpg" width="60" height="60"><img src="vscode이력서3.jpg" width="150" height="70">
+<img src="vscode이력서2.jpg" width="60" height="60"><img src="dart.jpg" width="90" height="60"><img src="vscode이력서3.jpg" width="150" height="65">
 + 세민직업전문학원에서 배우고있으며 배운것들을 블로그에 포스팅하고있습니다.
 + (https://github.com/bradjjc) 개인적으로 공부하거나 작업한 자료들이 들어있는 Git Repository입니다.
 <br>
